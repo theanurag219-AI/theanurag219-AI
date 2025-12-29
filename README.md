@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on:<br>Building small full-stack projects like To-Do List apps and problem-solving tools to improve my development skills.<br><br> I’m looking to collaborate on:<br>Beginner-friendly web development and AI-assisted projects where I can learn and contribute.<br><br> I’m looking for help with:<br>Improving backend logic, clean code practices, and real-world project structuring.<br><br> I’m currently learning:<br>Full-stack development, JavaScript, backend basics, and using AI tools for faster development.<br><br> Ask me about:<br>Basic web development, project ideas, Git/GitHub, and using AI to build projects.<br><br> Fun fact:<br>I learn faster by building projects than by watching tutorials.
+🚀I’m currently working on:<br>Building small full-stack projects like To-Do List apps,
+palindrome checker, basic calculator and problem-solving tools to improve my development skills.<br><br> 🤝I’m looking to collaborate on:<br>Beginner-friendly web development and AI-assisted projects where I can learn and contribute.<br><br> 🆘I’m looking for help with:<br>Improving backend logic, clean code practices, and real-world project structuring.<br><br> 🌱I’m currently learning:<br>Full-stack development, JavaScript, backend basics, and using AI tools for faster development.<br><br> 💬Ask me about:<br>Basic web development, project ideas, Git/GitHub, and using AI to build projects.<br><br> Fun fact:<br>⚡I learn faster by building projects than by watching tutorials.
 
 
 ## 🌐 Socials:
